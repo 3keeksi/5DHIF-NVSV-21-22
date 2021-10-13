@@ -1,2 +1,2 @@
 # NVSV
-Schule zwingt uns dazu
+Boah ich hasse programmieren
