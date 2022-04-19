@@ -1,2 +1,6 @@
 # NVSV Python
-Boah ich hasse programmieren
+Netzwertechnik und verteilte Systeme - Verteilte Systeme
+
+- Web Tokens
+- APIs
+- JWT
